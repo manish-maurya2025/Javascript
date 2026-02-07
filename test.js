@@ -1,6 +1,6 @@
-const accountId = "123456"
-let accountEmail = "manish@google.com"
-var accountPassword = "1234"
+const accountId = "123= "manish@google.com"
+var accountPas456"
+let accountEmail sword = "1234"
 accountCity = "Lucknow"
 let accountState;
 accountEmail = "mkm@gmail.com"
